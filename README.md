@@ -1,5 +1,5 @@
 # COCOMO_VCS_GITHUB
-![Author](https://img.shields.io/badge/author-Oliverio20%Lorenzo20%Marcolini20%Sara-light?style=flat)
+![Author](https://img.shields.io/badge/author-Oliverio%20Lorenzo%2C%20Marcolini%20Sara-blue)
 ![Language](https://img.shields.io/badge/language-python-orange?style=flat)
 ![Platform](https://img.shields.io/badge/OS%20platform%20supported-All-blue?style=flat)
 ![Testing](https://img.shields.io/badge/version-v01.01-green)
