@@ -6,8 +6,6 @@
 
 ***
 
-Il programma prende in input il percorso di un file o di una cartella inserito da utente, ne controlla il linguaggio di programmazione ed esegue i calcoli del COCOMO, infine stampa i risultati su un file.
-
 The program takes as user input the path of a file or folder, checks its programming language then performs various software metrics calculations (COCOMO, LOC, CLOC, NLOC, cyclomatic complexity), printing the results on a file.
 
 deploy sprint (CD/CI):
@@ -19,6 +17,7 @@ with the current directories structure:
     Olivero_Marcolini_COCOMO_VCS_GITHUB
         COCOMO_VCS_GITHUB
                 Olivero_Marcolini_COCOMO_VCS_GITHUB.py
+                keywords.py
                 README.md
 
 ## Required
